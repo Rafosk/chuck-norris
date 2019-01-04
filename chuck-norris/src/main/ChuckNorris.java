@@ -28,7 +28,6 @@ public class ChuckNorris {
 				prevString = string;
 				putZero(result, string);
 				counter++;
-
 			} else {
 
 				if (prevString.equals(string)) {
